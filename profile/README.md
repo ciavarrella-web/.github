@@ -55,7 +55,6 @@ While our projects are not open source, we welcome:
 
 - Email: silvio.ciavarrella@gmail.com
 - Website: [promptwars.de](https://promptwars.de) | [nasbai.com](https://nasbai.com)
-- TikTok: nasbai_official
 
 ---
 
