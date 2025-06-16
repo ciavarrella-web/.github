@@ -1,5 +1,3 @@
-# 🌐 Ciavarrella Silvio
-
 Welcome to the official GitHub organization for **PromptWars** and **Nasbai** — two creative, 
 community-powered platforms built with a shared mission: making the internet a more playful and meaningful place through open and ethical innovation.
 
