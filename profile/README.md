@@ -7,11 +7,11 @@ community-powered platforms built with a shared mission: making the internet a m
 
 We are a small, independent team dedicated to:
 
-- 🧠 Creating interactive experiences powered by AI
-- 🌱 Supporting creative expression and digital nature preservation
-- 💬 Encouraging thoughtful human-AI conversations
-- 🔓 Building transparent tools with real-world impact  
--    Embracing modern payment methods, including **crypto support via Solana Pay** ![Solana Pay Logo](../assets/solana-logo.svg) for fast, low-fee transactions
+- Creating interactive experiences powered by AI
+- Supporting creative expression and digital nature preservation
+- Encouraging thoughtful human-AI conversations
+- Building transparent tools with real-world impact  
+- Embracing modern payment methods, including **crypto support via Solana Pay** ![Solana Pay Logo](../assets/solana-logo.svg) for fast, low-fee transactions
 
 
 ## Projects
@@ -48,10 +48,10 @@ We are a small, independent team dedicated to:
 
 While our projects are not open source, we welcome:
 
-- 🧠 Feedback and feature suggestions via email or socials  
-- 💬 Participation in PromptWars weekly discussions  
-- 🎵 Nature sound contributions on Nasbai (under open licenses)  
-- 💸 Any help to sustain development
+- Feedback and feature suggestions via email or socials  
+- Participation in PromptWars weekly discussions  
+- Nature sound contributions on Nasbai (under open licenses)  
+- Any help to sustain development
 
 ## 📡 Connect With Us
 
