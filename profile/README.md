@@ -9,7 +9,7 @@ We are a small, independent team dedicated to:
 - Supporting creative expression and digital nature preservation
 - Encouraging thoughtful human-AI conversations
 - Building transparent tools with real-world impact  
-- Embracing modern payment methods, including **crypto support via Solana Pay** ![Solana Pay Logo](../assets/solana-logo.svg) for fast, low-fee transactions
+- Embracing modern payment methods, including **crypto support via** ![Solana Pay Logo](../assets/solana-logo.svg) (Solana Pay) for fast, low-fee transactions
 
 
 ## Projects
