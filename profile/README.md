@@ -53,7 +53,8 @@ While our projects are not open source, we welcome:
 
 ## 📡 Connect With Us
 
-- Email: ciavarrella@nasbai.com
+- Email Nasbai: support@nasbai.com
+- Email Promptwars: support@promptwars.de
 - Website: [promptwars.de](https://promptwars.de) | [nasbai.com](https://nasbai.com)
 
 ---
