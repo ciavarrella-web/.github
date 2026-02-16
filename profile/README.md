@@ -20,7 +20,7 @@ We are a small, independent team dedicated to:
 
 **PromptWars** is an experimental web-based game where two players go head-to-head by submitting prompts. The AI decides which prompt "wins" in a creative battle round.
 
-- 🚀 Built with: Angular, Java, Spring boot, EclipseStore
+- 🚀 Built with: Angular, Java, Spring boot
 - 🔐 Powered and run by a self hosted Kubernetes Cluster on Netcup
 - 🌐 Planned Features: RPG Mode - A Multiplayer Rpg with AI-Generated Storytelling with endless possibilities in a realtime prompt scenario.
 - 🪙 Modern payment methods with Solana Pay, currently available for all EU Citizens
