@@ -60,22 +60,6 @@ The application enables the capture of:
 - 🎯 Transparent foundation for personal reflection and therapeutic work
 - 🛡️ Privacy-focused: No interpretation or evaluation of data
 - 🔧 Digital structure tool — not a diagnostic or treatment instrument
-
-**Important Notice:**
-Lumoura replaces neither psychotherapy nor professional medical or psychological treatment. It is a digital structuring tool designed to enhance self-awareness through clear, documented observation.
-
-**Emergency Support:**
-If you're currently in acute psychological distress or feel at risk, please reach out to professional help services immediately.
-
-_German Emergency Contacts:_
-- 🚨 Notruf: 112
-- 💬 TelefonSeelsorge: 0800 111 0 111 or 116 123
-
-- 🧠 Built with: Modern web technologies
-- 💾 Features: Tension logging, pattern recognition, timeline visualization
-- 👥 Designed for personal and therapeutic contexts
-- 🔒 Privacy-first approach with transparent data handling
-
 ---
 
 ## Community Involvement
